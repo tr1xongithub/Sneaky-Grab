@@ -1,4 +1,3 @@
-# Sneaky-Grab
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/822685290988699691/1014707359857250384/Smirk_Emoji_Free_Download_Smirk_Face_Emoji.png"> <br>
   <b>Stealer</b> <br>
