@@ -5,7 +5,7 @@
 </p>
 
 
-# :construction: Disclaimer
+# Disclaimer : Must Read
 
 <p align="center">This program is for educational purposes only.</p>
 <p align="center">How you use this program is your responsibility.</p>
